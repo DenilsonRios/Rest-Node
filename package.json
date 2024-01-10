@@ -1,0 +1,13 @@
+{
+  "name": "lambda-api-aws",
+  "version": "1.0.0",
+  "description": "Crud User api para lambda AWS",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1517.0",
+    "uuid": "^9.0.1"
+  },
+  "keywords": [],
+  "author": "Denilson Rios ",
+  "license": "ISC"
+}
